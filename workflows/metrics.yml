@@ -1,0 +1,52 @@
+name: Profile metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Princeg-0716
+          template: classic
+          base: header, activity, community
+          config_timezone: Asia/Kolkata
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.leetcode.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Princeg-0716
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: PrinceG_0716
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_limit_recent: 2
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Princeg-0716
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Princeg-0716
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
