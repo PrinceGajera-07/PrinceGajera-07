@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Princeg-0716">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Hi%20there%2C%20I'm%20Prince%20Gajera%20%F0%9F%91%8B" alt="Hi there, I&#39;m Prince Gajera 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1050&text=Hi%20there%2C%20I'm%20Prince%20Gajera%20%F0%9F%91%8B" alt="Hi there, I'm Prince Gajera 👋" />
   </a>
 </p>
 
@@ -11,12 +11,11 @@
 ---
 ### 🚀 About Me
 
-🎓 Currently pursuing CSE (Computer Science &amp; Engineering) at Darshan University  
+🎓 Currently pursuing CSE (Computer Science & Engineering) at Darshan University  
 🔐 Self-learning Cyber Security — driven by genuine interest, not just curriculum  
 🛠️ Love building new ideas — apps, web, whatever the idea needs — mixing self-coding with AI-assisted ("vibe") coding  
 📚 Currently sharpening DSA, SQL, and JavaScript / React for coursework  
 🌱 Long-term goal: go deep into ethical hacking / cybersecurity beyond the classroom  
-🧰 Tech Stack
 
 ---
 🔭 &nbsp;I'm currently working on **crazy ideas**  
@@ -65,11 +64,58 @@
 </p>
 
 ---
-### 💭 Dev Quote
+### 🕹️ Dynamic Arcade & Game Contribution Charts
 
+<!-- Live Rotating Arcade Contribution SVG -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/arcade-contribution.svg" alt="Dynamic Arcade Contribution Graph" />
 </p>
+
+<!-- 🐍 Animated Snake Contribution Graph -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<details>
+<summary>🎮 <b>Explore All 6 Arcade Game Contribution Modes</b> (Click to Expand)</summary>
+
+<br/>
+
+#### 🟡 Pac-Man Mode
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20pacman.svg" alt="Pac-Man Contribution Chart" />
+</p>
+
+#### 💣 Bomberman Mode
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20bomberman.svg" alt="Bomberman Contribution Chart" />
+</p>
+
+#### 👾 Galaga Mode
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20galaga.svg" alt="Galaga Contribution Chart" />
+</p>
+
+#### 🧱 Breakout Mode
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20breakout.svg" alt="Breakout Contribution Chart" />
+</p>
+
+#### 🚩 Minesweeper Mode
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20minesweeper.svg" alt="Minesweeper Contribution Chart" />
+</p>
+
+#### 🔮 Puzzle Bobble Mode
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20puzzle%20bobble.svg" alt="Puzzle Bobble Contribution Chart" />
+</p>
+
+</details>
 
 ---
 
@@ -79,8 +125,7 @@
   <a href="https://www.linkedin.com/in/prince-gajera-73a483424/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Princeg0716" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/prince.07.16/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://leetcode.com/u/PrinceG_0716/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://websitelink hear" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/u/PrinceG_0716/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:princeg0716@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -92,30 +137,4 @@ Reach out if you're into cybersecurity, building side projects, or just want to 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Princeg0716&style=flat-square&color=blue" alt="profile views"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Princeg-0716/Princeg-0716/main/github-metrics.svg" alt="Contribution activity" />
-</p>
-
-## LeetCode
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Princeg-0716/Princeg-0716/main/metrics.leetcode.svg" alt="LeetCode statistics" />
-</p>
-
-## Commit Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Princeg-0716/Princeg-0716/main/metrics.calendar.svg" alt="Full contribution calendar" />
-</p>
-
-## Isometric Commit Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Princeg-0716/Princeg-0716/main/metrics.isocalendar.svg" alt="Isometric contribution calendar" />
 </p>
