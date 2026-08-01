@@ -86,7 +86,10 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Princeg-0716&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Princeg-0716&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=f472b6&area=true&hide_border=true&custom_title=Prince%20Gajera%27s%20Coding%20Universe"
+      alt="Live GitHub activity graph for Princeg-0716"
+    />
 </p>
 
 ---
@@ -113,7 +116,7 @@
 
 #### 🟡 Pac-Man Mode
 <p align="center">
-  <img width="100%" src="./acrade-contributions-pacman.svg" alt="Pac-Man Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-pacman.sv" alt="Pac-Man Contribution Chart" />
 </p>
 
 #### 💣 Bomberman Mode
