@@ -115,7 +115,7 @@
 </p>
 
 <details close>
-<summary>🎮 <b>Explore All 7 Arcade Game Contribution Modes</b> (Click to Collapse/Expand)</summary>
+<summary>🎮 <b>Explore All 6 Arcade Game Contribution Modes</b> (Click to Collapse/Expand)</summary>
 
 <br/>
 
