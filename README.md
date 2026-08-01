@@ -30,30 +30,56 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser" />
+  <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor Browser" />
+  <img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" alt="Shodan" />
+  <img src="https://img.shields.io/badge/Torch_Search-111111?style=for-the-badge&logo=tor-project&logoColor=gold" alt="Torch Search Engine" />
+  <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Mozilla Firefox" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C99?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Tails_OS-563D7C?style=for-the-badge&logo=tor-project&logoColor=white" alt="Tails OS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows OS" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" alt="TOR" />
+  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
 </p>
 
 ---
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Princeg-0716&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Princeg-0716&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Princeg-0716&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
+  </p>
+  <p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=Princeg-0716&theme=dark&hide_border=false" alt="stats" />
+  </p>
+  <p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Princeg-0716&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
@@ -66,9 +92,9 @@
 ---
 ### 🕹️ Dynamic Arcade & Game Contribution Charts
 
-<!-- Live Rotating Arcade Contribution SVG -->
+<!-- Live Rotating Arcade Contribution SVG using relative path for 100% reliable rendering -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/arcade-contribution.svg" alt="Dynamic Arcade Contribution Graph" />
+  <img width="100%" src="./arcade-contribution.svg" alt="Dynamic Arcade Contribution Graph" />
 </p>
 
 <!-- 🐍 Animated Snake Contribution Graph -->
@@ -76,46 +102,50 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake.svg">
-    <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
 
-<details>
-<summary>🎮 <b>Explore All 6 Arcade Game Contribution Modes</b> (Click to Expand)</summary>
+<details open>
+<summary>🎮 <b>Explore All 6 Arcade Game Contribution Modes</b> (Click to Collapse/Expand)</summary>
 
 <br/>
 
 #### 🟡 Pac-Man Mode
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20pacman.svg" alt="Pac-Man Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-pacman.svg" alt="Pac-Man Contribution Chart" />
 </p>
 
 #### 💣 Bomberman Mode
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20bomberman.svg" alt="Bomberman Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-bomberman.svg" alt="Bomberman Contribution Chart" />
 </p>
 
 #### 👾 Galaga Mode
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20galaga.svg" alt="Galaga Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-galaga.svg" alt="Galaga Contribution Chart" />
 </p>
 
 #### 🧱 Breakout Mode
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20breakout.svg" alt="Breakout Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-breakout.svg" alt="Breakout Contribution Chart" />
 </p>
 
 #### 🚩 Minesweeper Mode
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20minesweeper.svg" alt="Minesweeper Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-minesweeper.svg" alt="Minesweeper Contribution Chart" />
 </p>
 
 #### 🔮 Puzzle Bobble Mode
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Princeg0716/Princeg0716/main/acrade-contributions%20puzzle%20bobble.svg" alt="Puzzle Bobble Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-puzzle-bobble.svg" alt="Puzzle Bobble Contribution Chart" />
 </p>
 
 </details>
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Princeg-0716&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
