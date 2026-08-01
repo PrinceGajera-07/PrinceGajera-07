@@ -1,0 +1,43 @@
+name: Generate Pac-Man Arcade Chart
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  set-pacman:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Activate Pac-Man SVG
+        run: |
+          if [ -f "acrade-contributions-pacman.svg" ]; then
+            cp "acrade-contributions-pacman.svg" "arcade-contribution.svg"
+          elif [ -f "acrade-contributions pacman.svg" ]; then
+            cp "acrade-contributions pacman.svg" "arcade-contribution.svg"
+          fi
+          mkdir -p "ready to go"
+          if [ -f "acrade-contributions-pacman.svg" ]; then
+            cp "acrade-contributions-pacman.svg" "ready to go/arcade-contribution.svg"
+          elif [ -f "acrade-contributions pacman.svg" ]; then
+            cp "acrade-contributions pacman.svg" "ready to go/arcade-contribution.svg"
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add arcade-contribution.svg "ready to go/arcade-contribution.svg"
+          git diff --staged --quiet || (git commit -m "🟡 Set Active Contribution Chart: Pac-Man [skip ci]" && git push)
