@@ -100,6 +100,11 @@
   <img width="100%" src="./arcade-contribution.svg" alt="Dynamic Arcade Contribution Graph" />
 </p>
 
+#### 🐍 snake Mode
+<p align="center">
+  <img width="100%" src="./github-user-contribution-dark.svg" alt="Pac-Man Contribution Chart" />
+</p>
+
 <!-- 🐍 Animated Snake Contribution Graph -->
 <p align="center">
   <picture>
@@ -109,14 +114,14 @@
   </picture>
 </p>
 
-<details open>
-<summary>🎮 <b>Explore All 6 Arcade Game Contribution Modes</b> (Click to Collapse/Expand)</summary>
+<details close>
+<summary>🎮 <b>Explore All 7 Arcade Game Contribution Modes</b> (Click to Collapse/Expand)</summary>
 
 <br/>
 
 #### 🟡 Pac-Man Mode
 <p align="center">
-  <img width="100%" src="./acrade-contributions-pacman.sv" alt="Pac-Man Contribution Chart" />
+  <img width="100%" src="./acrade-contributions-pacman.svg" alt="Pac-Man Contribution Chart" />
 </p>
 
 #### 💣 Bomberman Mode
